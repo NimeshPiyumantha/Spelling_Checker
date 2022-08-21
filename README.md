@@ -7,7 +7,7 @@ Creating a spelling checker using python.
 * GUI Tkinter
 
 ##
-![alt text](https://github.com/NimeshPiyumantha/Spelling_Checker/blob/master/Capture.PNG)
+![alt text](https://github.com/NimeshPiyumantha/Spelling_Checker/blob/master/Capture.png)
 ##
 
 ### `Somethings`
