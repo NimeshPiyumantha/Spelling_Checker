@@ -14,4 +14,7 @@ enter_text=Entry(root,justify="center",width=30,font=("poppins",25),bg="white",b
 enter_text.pack(pady=10)
 enter_text.focus()
 
+button=Button(root,text="Check",font=("arial",20,"bold"),fg="white",bg="red",command=check_spelling)
+button.pack()
+
 root.mainloop()
