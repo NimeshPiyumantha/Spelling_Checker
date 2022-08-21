@@ -14,7 +14,9 @@ Creating a spelling checker using python.
 
 Creating a `spelling checker` using python, with the help of this tool we can check whether the `spelling` is wrong or correct. If spelling is wrong, it will correct it. "A `spell checker` is a software feature that `checks` for misspellings in a text. `Spell-checking` features are often embedded in software or services, such as a word processor, email client, electronic dictionary, or search engine" It is just a basic GUI project.
 
-###  
+##
+
+### 
 ### Clone this repository ✅
 ```md
 https://github.com/NimeshPiyumantha/Spelling_Checker.git
@@ -25,6 +27,7 @@ https://github.com/NimeshPiyumantha/Spelling_Checker.git
 
 #### nimeshpiyumantha11@gmail.com
 </div>
+
 ##
 <p align="center">
 <a href="https://twitter.com/NPiyumantha60"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__NimeshPiyumantha__" height="30" width="40" /></a>
